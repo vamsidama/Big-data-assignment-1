@@ -1,6 +1,6 @@
 # Big-data-assignment-1
 
-# BDA ICP 1 – Big Data Analytics
+ Big Data Analytics
 
 ### Name: Dama Vamsi
 ### Course: DSA 5620 – Big Data Analytics
